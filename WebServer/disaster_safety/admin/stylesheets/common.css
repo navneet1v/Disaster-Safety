@@ -1,0 +1,47 @@
+body{
+background-color:#D8D8D8  ;
+
+}
+
+#menu {
+   
+    height: 90px;
+    clear:both;
+    font-size: 18px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 2px 3px black;
+    background-color:SlateBlue;
+        border-radius: 5px;
+}
+ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+li { 
+display: inline; 
+padding: 30px; 
+}
+ a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 8px 8px 8px;
+}
+
+ a.links {
+    text-decoration: none;
+    color: SLATEBLUE;
+   
+}
+
+a:hover {
+    color:SkyBlue  ;
+    background-color: #FFF;
+}
+.image{
+vertical-align:middle;
+padding-top:0px;
+height-100px;
+}

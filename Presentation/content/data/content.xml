@@ -1,0 +1,1228 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-60051.881190816755" y="-33788.70584923519" width="120103.76238163351" height="67577.41169847039"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="2_13696309" type="button" x="44.49340714998138" y="-1.2660575676313155e-12" r="4.885750995873636e-30" s="112.81704791063504" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1064.8176062707264</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="3" type="button" x="35584.616930469354" y="-8404.032941143669" r="1.2131428790716077e-45" s="15.354771389990775" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="4" type="button" x="31094.83709007839" y="11708.065179586252" r="1.2131428790716077e-45" s="15.186714665048402" class="circle">
+      <type>circle</type>
+      <size>
+        <w>829.5351109857986</w>
+        <h>829.5351109857986</h>
+      </size>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="5" type="button" x="3989.0115157971754" y="581.3915302324788" r="1.2131428790716077e-45" s="15.354771389990775" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="9" type="button" x="25876.23635122982" y="-15628.06835311842" r="1.3486934801768287e-44" s="8.977499854090912" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="10" type="shape" x="31720.315374430204" y="-3328.998858779514" r="-59.99999999999999" s="28.9264358752425" class="line5">
+      <geom type="arrow">
+        <sp>-187.45003506987 -62.22448966653296</sp>
+        <ep>187.45003506987 -62.22448966653296</ep>
+        <b>124.44897933306592</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="11" type="shape" x="24238.235203017484" y="6639.900014308468" r="45" s="40.49701022533944" class="line5">
+      <geom type="arrow">
+        <sp>-112.49315792873556 41.579764842910635</sp>
+        <ep>112.49315792873556 41.579764842910635</ep>
+        <b>-83.15952968582127</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="12" type="shape" x="10546.19157371303" y="8278.708097414823" r="9.773182155473949" s="28.926435875242568" class="line5">
+      <geom type="arrow">
+        <sp>222.79559013048063 -76.17717076041691</sp>
+        <ep>-222.79559013048063 -76.17717076041693</ep>
+        <b>-152.35434152083383</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="11_56687861" type="button" x="16038.753742592855" y="-14447.982289004654" r="4.885750995873636e-30" s="9.131081131865368" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>672.9444335735316</w>
+        <h>639.5387496948242</h>
+      </size>
+    </object>
+    <object id="15" type="button" x="20388.343889743508" y="-967.0191768347822" r="2.3300534737959265e-45" s="23.983395807470497" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800.172972972973</h>
+      </size>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="0_30863873" type="text" x="-26274.67751354347" y="-22632.29580172045" r="4.885750995873644e-30" s="283.88715079869223" class="head">
+      <height>31.9921875</height>
+      <width>234.99436403558173</width>
+      <p>
+        <text><![CDATA[DISASTER SAFETY]]></text>
+      </p>
+    </object>
+    <object id="12_4" type="text" x="20446.2005286076" y="-6920.426774335202" r="2.3300534737959265e-45" s="74.03337879717071" class="strong">
+      <height>29.16</height>
+      <width>222.4164289894168</width>
+      <p align="center">
+        <text color="1657497"><![CDATA[INSPIRATION]]></text>
+      </p>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="15"/>
+      </layout>
+    </object>
+    <object id="25_4" type="text" x="20597.113195476362" y="-1378.2137620823573" r="1.2131428790716069e-45" s="40.97713189119982" class="body">
+      <height>204.12</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[India is a disaster prone country.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[About 58% of India's total area is prone to medium and severe seismic hazards.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[30 million people affected by floods annually.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[8% of its area is prone to cyclones.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="15"/>
+      </layout>
+    </object>
+    <object id="1_24309637" type="text" x="31144.369839554933" y="7910.754590079868" r="1.2131428790716066e-45" s="36.728432157366534" class="body">
+      <height>29.16</height>
+      <width>221.97377848276813</width>
+      <p>
+        <text color="16711680" weight="bold"><![CDATA[STORY OF A VICTIM]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="4"/>
+      </layout>
+    </object>
+    <object id="3_24309637" type="text" x="3924.268741856751" y="-416.3232356681919" r="1.2131428790716058e-45" s="21.023223685492887" class="body">
+      <height>204.12</height>
+      <width>485.99522713219386</width>
+      <p listType="bullet" indent="1">
+        <text color="4420372"><![CDATA[Diseases like SWINE FLU and EBOLA come into knowledge only when they have taken thousands of lives.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="4420372"><![CDATA[Death toll due to swine flu is estimated to be around 1100.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="4420372"><![CDATA[It could have been reduced if awareness was created beforehand.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="5"/>
+      </layout>
+    </object>
+    <object id="5_24309637" type="text" x="39378.46254429907" y="-8945.665552808054" r="1.2131428790716069e-45" s="45.67267186703467" class="body">
+      <height>58.32</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text color="3288169"><![CDATA[ THIS LEAD US TO ...]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="3"/>
+      </layout>
+    </object>
+    <object id="6_24309637" type="text" x="25811.032430353618" y="-17687.268214004587" r="1.3486934801768292e-44" s="28.416759441278945" class="strong">
+      <height>29.16</height>
+      <width>269.91050588710425</width>
+      <p align="center">
+        <text color="4420372"><![CDATA[NEED]]></text>
+      </p>
+      <meta>
+        <parentTemplate>orb-quick</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="0" type="text" x="-44626.030075335686" y="16385.495027000397" r="4.88575099587364e-30" s="175.54111606674257" class="strong">
+      <height>29.16</height>
+      <width>-175.752</width>
+      <p>
+        <text><![CDATA[TEAM -OPTIOSE]]></text>
+      </p>
+    </object>
+    <object id="7_56687861" type="image" x="30855.458367359697" y="10692.043638951156" r="1.2131428790716077e-45" s="11.26185105465174">
+      <source w="580" h="381">3145609066<url>3145609066.jpg</url></source>
+      <sourceUrl>27ukhand4.jpg</sourceUrl>
+    <resource><id>3145609066</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/7/e/4bd92f81f46cf690c3c444d9b11c5689f94d1.jpg</url></resource></object>
+    <object id="0_56687861" type="text" x="31747.529416796664" y="14151.577839951731" r="1.2131428790716086e-45" s="24.256723097701716" class="strong">
+      <height>87.48</height>
+      <width>441.2561877956918</width>
+      <p>
+        <text color="4420372"><![CDATA[Ranjan Mishra ,a survivor of Kedarnath ]]></text>
+      </p>
+      <p>
+        <text color="4420372"><![CDATA[Tragedy lost his son because he was unable to locate the relief camps. ]]></text>
+      </p>
+    </object>
+    <object id="12_56687861" type="button" x="7405.518045125437" y="-10342.737700035637" r="4.885750995873636e-30" s="7.0027141725120385" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>903.8566695871524</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_56687861" type="text" x="3822.2091633971872" y="-3423.4277120690745" r="-3.5138230652856355e-61" s="35.84990690885777" class="strong">
+      <height>29.16</height>
+      <width>-120.792</width>
+      <p>
+        <text color="8856395"><![CDATA[EPIDEMICS]]></text>
+      </p>
+    </object>
+    <object id="2_56687861" type="button" x="35710.90160864681" y="-3777.9859487492818" r="1.2131428790716072e-45" s="2.550721246189825" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="4_56687861" type="image" x="35977.8405173288" y="-3442.680856439159" r="1.2131428790716077e-45" s="2.3643577597274437">
+      <source w="243" h="245">3145585366<url>3145585366.png</url></source>
+      <sourceUrl>icon%20(2).png</sourceUrl>
+    <resource><id>3145585366</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/7/8/9ca79d73c71c4917c03e11a8f1f1b3df807c1.png</url></resource></object>
+    <object id="6_56687861" type="text" x="36117.229994339796" y="-3994.326772309685" r="1.213142879071606e-45" s="5.354341866009532" class="strong">
+      <height>145.8</height>
+      <width>404.808</width>
+      <p>
+        <text color="1657497"><![CDATA[Believing that although]]></text>
+      </p>
+      <p>
+        <text color="1657497"><![CDATA[some factors may be]]></text>
+      </p>
+      <p>
+        <text color="1657497"><![CDATA[inevitable but lack of]]></text>
+      </p>
+      <p>
+        <text color="1657497"><![CDATA[information should not]]></text>
+      </p>
+      <p>
+        <text color="1657497"><![CDATA[be one.]]></text>
+      </p>
+    </object>
+    <object id="8_56687861" type="image" x="3905.975840519883" y="3256.2424916129426" r="1.2131428790716086e-45" s="13.862821755752519">
+      <source w="566" h="203">3145625980<url>3145625980.jpg</url></source>
+      <sourceUrl>epidemic.jpg</sourceUrl>
+    <resource><id>3145625980</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/2/0/b75ffc902f26b176ac6d0f9fbfb9709cebb16.jpg</url></resource></object>
+    <object id="9_56687861" type="button" x="19969.576643277444" y="-20451.443383727186" r="8.807217889520459e-45" s="0.9833167442127161" class="circle">
+      <type>circle</type>
+      <size>
+        <w>947.8565858296352</w>
+        <h>947.8565858296352</h>
+      </size>
+    </object>
+    <object id="10_56687861" type="button" x="16346.583418352964" y="-20204.258205875132" r="4.8857509958736355e-30" s="5.208238790459933" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>458.70763947671605</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="13_56687861" type="text" x="16371.47582972697" y="-21536.882739098408" r="4.885750995873636e-30" s="13.050737152588626" class="strong">
+      <height>29.16</height>
+      <width>-118.632</width>
+      <p>
+        <text color="6557470"><![CDATA[FEATURES:]]></text>
+      </p>
+    </object>
+    <object id="15_56687861" type="text" x="26290.257368970742" y="-15526.19084826666" r="1.3486934801768282e-44" s="15.568085312714656" class="strong">
+      <height>204.12</height>
+      <width>421.0776147575248</width>
+      <p>
+        <text><![CDATA[What would if your phone have:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Ability to locate relief centres and hospitals during a disaster.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Ability to locate your dear ones in case they are unsafe.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Ability to notify recent epidemics before they reach you.]]></text>
+      </p>
+    </object>
+    <object id="17_56687861" type="image" x="19975.92584154518" y="-20386.84524630371" r="8.638085765411765e-45" s="0.7240782643446878">
+      <source w="480" h="800">3145710481<url>3145710481.png</url></source>
+      <sourceUrl>Screenshot_2015-03-12-01-29-04.png</sourceUrl>
+    <resource><id>3145710481</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/8/2/4f7ac3050ce52063033f9646a73c9e075a461.png</url></resource></object>
+    <object id="16_56687861" type="text" x="19976.151416592664" y="-20774.75213686595" r="8.588772112625268e-45" s="4.481450229895614" class="strong">
+      <height>29.16</height>
+      <width>-67.632</width>
+      <p>
+        <text color="3288169"><![CDATA[NEWS]]></text>
+      </p>
+    </object>
+    <object id="32_56687861" type="image" x="17855.25" y="-15910.6" r="4.885750995873639e-30" s="3.3519106109867525">
+      <source w="480" h="800">3148541695<url>3148541695.png</url></source>
+      <sourceUrl>Screenshot_2015-03-12-17-22-37%5B1%5D.png</sourceUrl>
+    <resource><id>3148541695</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/c/b/fadddb0de714c689241bff3cedb50f6f68afb.png</url></resource></object>
+    <object id="18_56687861" type="text" x="14702.122207220853" y="-16712.767954599785" r="4.8857509958736334e-30" s="38.09205791387744" class="strong">
+      <height>29.16</height>
+      <width>-85.89600000000002</width>
+      <p>
+        <text color="3288169"><![CDATA[PEOPLE]]></text>
+      </p>
+    </object>
+    <object id="20_56687861" type="text" x="6111.237519265339" y="-11957.443586255966" r="4.885750995873636e-30" s="25.22290388520163" class="strong">
+      <height>29.16</height>
+      <width>-134.136</width>
+      <p>
+        <text color="1657497"><![CDATA[GUIDELINES]]></text>
+      </p>
+    </object>
+    <object id="22_56687861" type="button" x="10173.744627331238" y="-19399.420138305566" r="4.885750995873636e-30" s="3.2557757290124276" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>405.0992081079718</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="24_56687861" type="button" x="5833.809819171889" y="-18488.195281415556" r="4.885750995873636e-30" s="2.471088836569941" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>458.36669369211904</w>
+        <h>347</h>
+      </size>
+    </object>
+    <object id="66_56687861" type="image" x="9224.432353122776" y="-10305.496975970602" r="4.8857509958736355e-30" s="4.729824202916102">
+      <source w="480" h="800">3149661367<url>3149661367.png</url></source>
+      <sourceUrl>Screenshot_2015-03-12-21-13-05.png</sourceUrl>
+    <resource><id>3149661367</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/8/4/6f4386155769db514e636451fb8b249a937c6.png</url></resource></object>
+    <object id="25_56687861" type="text" x="6149.121132712491" y="-10647.087226256395" r="4.88575099587364e-30" s="12.552311060829544" class="strong">
+      <height>87.48</height>
+      <width>260.56351442481855</width>
+      <p>
+        <text color="3288169"><![CDATA[It will contain ]]></text>
+      </p>
+      <p>
+        <text color="3288169"><![CDATA[directions regarding ]]></text>
+      </p>
+      <p>
+        <text color="3288169"><![CDATA[various disasters.]]></text>
+      </p>
+    </object>
+    <object id="29_56687861" type="image" x="10145.184217592005" y="-19257.04371788513" r="4.885750995873636e-30" s="1.3897084798232355">
+      <source w="540" h="960">3145742941<url>3145742941.jpg</url></source>
+      <sourceUrl>IMG-20150311-WA0006.jpg</sourceUrl>
+    <resource><id>3145742941</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/4/4/52255d6c9dd8c36865e4ee47963ac3f0d2e3f.jpg</url></resource></object>
+    <object id="26_56687861" type="text" x="10149.668458997221" y="-20178.43802914989" r="4.885750995873638e-30" s="12.550819675359609" class="strong">
+      <height>29.16</height>
+      <width>-84.12</width>
+      <p>
+        <text color="8856395"><![CDATA[STATUS]]></text>
+      </p>
+    </object>
+    <object id="39_56687861" type="button" x="7588.052628698241" y="-19399.719336558264" r="4.8857509958736355e-30" s="1.4596692359309762" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="83_56687861" type="image" x="6154.55" y="-18473.95" r="4.8857509958736355e-30" s="0.8216073653310346">
+      <source w="540" h="960">3152402101<url>3152402101.png</url></source>
+      <sourceUrl>Screenshot_2015-03-13-08-20-28.png</sourceUrl>
+    <resource><id>3152402101</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/f/b/7f53061bd03a0a458cb1046226c57820e9630.png</url></resource></object>
+    <object id="28_56687861" type="text" x="5641.74467986731" y="-18833.664476461512" r="4.8857509958736306e-30" s="4.569996080484388" class="strong">
+      <height>29.16</height>
+      <width>152.36970416082914</width>
+      <p>
+        <text color="1531238"><![CDATA[Help Centres]]></text>
+      </p>
+    </object>
+    <object id="31_56687861" type="text" x="5614.088461355229" y="-18554.89022777132" r="4.885750995873636e-30" s="1.824547633571926" class="strong">
+      <height>204.12</height>
+      <width>343.6322768095023</width>
+      <p>
+        <text><![CDATA[It pings all the relief centres, hospitals and all other important places that might be helpful during an emergency. Pressing on a save button on the the bottom-right will save the map for offline use.]]></text>
+      </p>
+    </object>
+    <object id="33_56687861" type="button" x="6651.313938987734" y="-16944.15265871442" r="4.8857509958736355e-30" s="1.9379692596032023" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>510.7983923413085</w>
+        <h>337.77258128192045</h>
+      </size>
+    </object>
+    <object id="37_56687861" type="text" x="6662.3667849774865" y="-17188.641329763286" r="4.8857509958736334e-30" s="3.8608071554370773" class="strong">
+      <height>29.16</height>
+      <width>-221.97600000000003</width>
+      <p>
+        <text color="1657497"><![CDATA[TECHNOLOGY USED]]></text>
+      </p>
+    </object>
+    <object id="38_56687861" type="text" x="6628.4852537734905" y="-16930.02526259619" r="4.885750995873639e-30" s="2.2857510979875975" class="strong">
+      <height>174.96</height>
+      <width>341.940149624724</width>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Basically it is an android app.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[It supports minimum android version - 4.0.3.]]></text>
+      </p>
+      <p>
+        <text color="6557470"><![CDATA[For server side coding,it uses:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[PHP and JSON scripting.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[WAMP server.]]></text>
+      </p>
+    </object>
+    <object id="40_56687861" type="text" x="7592.063810136148" y="-19725.99494225448" r="4.885750995873636e-30" s="3.7732265794765887" class="strong">
+      <height>29.16</height>
+      <width>-239.23200000000003</width>
+      <p>
+        <text color="8856395"><![CDATA[EXTENDED FEATURES]]></text>
+      </p>
+    </object>
+    <object id="41_56687861" type="text" x="7658.109303698451" y="-19602.073319415136" r="4.885750995873636e-30" s="1.966249184223799" class="strong">
+      <height>58.32</height>
+      <width>544.4902764155631</width>
+      <p>
+        <text color="1657497"><![CDATA[An interface is provided for operator to upload necessary information on server.]]></text>
+      </p>
+    </object>
+    <object id="43_56687861" type="button" x="8316.98169105087" y="-17870.183471498123" r="4.885750995873636e-30" s="1.4915610072540664" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>768.081787109375</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="44_56687861" type="text" x="8298.960272129369" y="-18172.675447441343" r="4.885750995873638e-30" s="4.467273575690754" class="strong">
+      <height>29.16</height>
+      <width>-203.976</width>
+      <p>
+        <text color="3288169"><![CDATA[TARGET AUDIENCE]]></text>
+      </p>
+    </object>
+    <object id="45_56687861" type="text" x="7928.136981479615" y="-17810.167812496016" r="4.885750995873636e-30" s="2.582482116890888" class="strong">
+      <height>204.12</height>
+      <width>97.73000000000002</width>
+      <p>
+        <text color="1657497"><![CDATA[It targets every person carrying a smartphone.]]></text>
+      </p>
+    </object>
+    <object id="46_56687861" type="button" x="561.4076615529992" y="-8794.532028478878" r="4.8857509958736355e-30" s="6.410278124720763" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="47_56687861" type="text" x="565.1043708111528" y="-10081.822341922118" r="4.885750995873634e-30" s="21.977514424634773" class="strong">
+      <height>29.16</height>
+      <width>-168.91200000000003</width>
+      <p>
+        <text color="4420372"><![CDATA[FUTURE SCOPE]]></text>
+      </p>
+    </object>
+    <object id="48_56687861" type="button" x="1718.1762966087826" y="-14045.780724635491" r="4.8857509958736355e-30" s="5.762720375157734" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>589.5246675144883</w>
+        <h>599.1007195081825</h>
+      </size>
+    </object>
+    <object id="49_56687861" type="image" x="1726.1290487474039" y="-14080.514580447429" r="4.8857509958736355e-30" s="10.990592497875362">
+      <source w="300" h="300">3145882069<url>3145882069.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fsmallbusinessodyssey.com%2Fwp-content%2Fuploads%2F2011%2F11%2Fquestion-mark-300x300.jpg</sourceUrl>
+    <resource><id>3145882069</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/f/7/0344f2f2bfcd8f922cdbb64ebc2c8b4a23b26.jpe</url></resource></object>
+    <object id="50_56687861" type="button" x="25904.68216383226" y="-12995.407966428347" r="1.3486934801768292e-44" s="1.106127915144285" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="27_56687861" type="image" x="14832.003103585193" y="-14365.36078368988" r="4.885750995873638e-30" s="3.4681021271814463">
+      <source w="480" h="800">3148535686<url>3148535686.png</url></source>
+      <sourceUrl>Screenshot_2015-03-12-16-52-15%5B1%5D.png</sourceUrl>
+    <resource><id>3148535686</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/9/c/c2a747a69687701d9f0a5551c203145a44547.png</url></resource></object>
+    <object id="42_56687861" type="button" x="31285.02795374403" y="16512.752745340396" r="1.2131428790716075e-45" s="1.6537803168655416" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>796.28125</w>
+        <h>509.8553677885589</h>
+      </size>
+    </object>
+    <object id="53_56687861" type="image" x="30966.763636917192" y="16321.63740270654" r="1.2131428790716082e-45" s="2.3773723667867657">
+      <source w="273" h="185">3148561072<url>3148561072.jpg</url></source>
+      <sourceUrl>uttrakhand.jpg</sourceUrl>
+    <resource><id>3148561072</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/1/3/f41ad0cf7633e7a86af93a5f922c7910c27ff.jpg</url></resource></object>
+    <object id="54_56687861" type="image" x="31571.91307692412" y="16732.571541433965" r="1.2131428790716082e-45" s="0.837126767841327">
+      <source w="800" h="450">3148561162<url>3148561162.jpg</url></source>
+      <sourceUrl>VAC_Ethiopia_MeaslesVaccChild_Zerihun_66446.jpg</sourceUrl>
+    <resource><id>3148561162</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/b/1/d28776ae8dd8cb5bd37a66c9af95e78035a56.jpg</url></resource></object>
+    <object id="55_56687861" type="image" x="31613.530641484012" y="16325.97038172033" r="1.2131428790716082e-45" s="1.0708955451057647">
+      <source w="600" h="400">3148563886<url>3148563886.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fhillpost.in%2Fwp-content%2Fuploads%2F2013%2F06%2FChaos-mars-relief-and-rescue-operations-in-Uttarakhand.jpg</sourceUrl>
+    <resource><id>3148563886</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/a/8/7bbc970ee42ca04388b98963a0c6a95d33ee2.jpe</url></resource></object>
+    <object id="56_56687861" type="image" x="30948.523193004294" y="16734.59825742428" r="1.2131428790716086e-45" s="0.8072572158782393">
+      <source w="700" h="468">3148564690<url>3148564690.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fstatic.indianexpress.com%2Fpic%2FuploadedImages%2FbigImages%2FB_Id_395834_Kedarnath_Temple.jpg</sourceUrl>
+    <resource><id>3148564690</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/3/2/4/f2fde4928e43a682847b71c25754d8aec8960.jpe</url></resource></object>
+    <object id="57_56687861" type="button" x="6914.117075931883" y="-14879.531013244865" r="4.885750995873636e-30" s="2.0705337206800873" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>716.1811159029603</w>
+        <h>519.5193719342083</h>
+      </size>
+    </object>
+    <object id="58_56687861" type="text" x="6901.787359364985" y="-15303.388788641481" r="4.8857509958736334e-30" s="4.766618932418413" class="head">
+      <height>31.9921875</height>
+      <width>-223.546875</width>
+      <p>
+        <text color="3288169" style="italic"><![CDATA[IMPLEMENTATION]]></text>
+      </p>
+    </object>
+    <object id="59_56687861" type="text" x="6911.623598337978" y="-14940.643386512997" r="4.885750995873636e-30" s="2.7464416746718223" class="head">
+      <height>191.953125</height>
+      <width>514.20703125</width>
+      <p listType="bullet" indent="1">
+        <text color="4420372"><![CDATA[For location access ,Google Maps V2 and Google Direction API is used.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="4420372"><![CDATA[For accessing locations offline, OSM droid API  is used.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="4420372"><![CDATA[For sending notifications, GCM server is used.]]></text>
+      </p>
+    </object>
+    <object id="60_56687861" type="image" x="7592.042084353851" y="-19276.754091754672" r="4.885750995873636e-30" s="0.7294604460587728">
+      <source w="1363" h="704">3148633573<url>3148633573.PNG</url></source>
+      <sourceUrl>addCoordinates.PNG</sourceUrl>
+    <resource><id>3148633573</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/0/b/d547278c3e1032b4f1134ff818037d17502d7.PNG</url></resource></object>
+    <object id="62_56687861" type="image" x="8440.634887261842" y="-17792.820751160078" r="4.885750995873636e-30" s="0.5647294483256496">
+      <source w="1280" h="850">3148648576<url>3148648576.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fpsdmockups.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2013%2F03%2Fandroid-smartphone-internet-cafe-coffee-produt-shot-female-hands-psd-mockup.jpg</sourceUrl>
+    <resource><id>3148648576</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/f/d/0e859e5b9b3ee6a3dfa75b0ecf6aedd9554ba.jpe</url></resource></object>
+    <object id="63_56687861" type="text" x="657.020410370989" y="-8667.554760158564" r="4.8857509958736334e-30" s="8.92655108744249" class="head">
+      <height>159.9609375</height>
+      <width>496.0112474279464</width>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[Features like weather forecasting can be added to provide more information to users regarding disasters.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[The use of this app can be extended throughout the world.]]></text>
+      </p>
+    </object>
+    <object id="5_56687861" type="button" x="9205.990059808402" y="-16443.742460436555" r="4.885750995873636e-30" s="2.536637775990451" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>381.432565444848</h>
+      </size>
+    </object>
+    <object id="65_56687861" type="button" x="8700.593496854122" y="-16328.848896624153" r="4.8857509958736334e-30" s="1.3774023286054433" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>732.5936977988354</w>
+        <h>492.2824296175857</h>
+      </size>
+    </object>
+    <object id="52_56687861" type="image" x="8700.522836726479" y="-16328.813566560333" r="4.8857509958736334e-30" s="1.4624152425405343">
+      <source w="675" h="450">3149331925<url>3149331925.jpg</url></source>
+      <sourceUrl>disaster%20safety.jpg</sourceUrl>
+    <resource><id>3149331925</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/9/4/8ffb3bf4d47afe94167f235742b42de4c2973.jpg</url></resource></object>
+    <object id="19_56687861" type="text" x="9206.076796509962" y="-16814.74326434944" r="4.885750995873636e-30" s="7.00183446444635" class="body">
+      <height>29.16</height>
+      <width>-84.504</width>
+      <p>
+        <text color="6557470" weight="bold"><![CDATA[DESIGN]]></text>
+      </p>
+    </object>
+    <object id="64_56687861" type="button" x="9721.667671334488" y="-16334.678357154558" r="4.8857509958736355e-30" s="1.651510857004334" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>588.7732286137621</w>
+        <h>406.2692669299833</h>
+      </size>
+    </object>
+    <object id="61_56687861" type="image" x="9715.166939591489" y="-16329.13153713472" r="4.885750995873638e-30" s="0.9790712188749076">
+      <source w="970" h="654">3149332057<url>3149332057.jpg</url></source>
+      <sourceUrl>DFD2.jpg</sourceUrl>
+    <resource><id>3149332057</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/7/e/36ef625ba52d9168c32b4812f727137b4b6b1.jpg</url></resource></object>
+    <object id="21_56687861" type="shape" x="16252.737323856541" y="-15340.463646601549" r="-35.00885068303439" s="11.30562042260533" class="line2">
+      <geom type="arrow">
+        <sp>-48.79130170795187 0</sp>
+        <ep>48.791301707951874 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="51_56687861" type="shape" x="16263.474485094084" y="-14001.991731278928" r="35.88582494520877" s="11.305620422605335" class="line2">
+      <geom type="arrow">
+        <sp>-46.85804340707824 0</sp>
+        <ep>46.85804340707824 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="3_56687861" type="image" x="25920.334375555154" y="-12871.519511263801" r="1.3486934801768292e-44" s="0.9319800325793094">
+      <source w="375" h="450">3150129820<mask x="33" y="0" w="342" h="450"/>
+      <url>3150129820.jpg</url></source>
+      <sourceUrl>13105729233LDvgi.jpg</sourceUrl>
+    <resource><id>3150129820</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/e/4/687068037dda01d6783e4fc4d652de7d68937.jpg</url></resource></object>
+    <object id="23_56687861" type="image" x="25932.337504478597" y="-13176.806592737968" r="1.3486934801768292e-44" s="1.5254216543034433">
+      <source w="225" h="225">3150207244<mask x="0" y="30" w="225" h="168"/>
+      <url>3150207244.jpg</url></source>
+      <sourceUrl>download.jpg</sourceUrl>
+    <resource><id>3150207244</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/6/5/4a135885dd2750092ec7435bcf921c2420d26.jpg</url></resource></object>
+    <object id="67_56687861" type="button" x="21544.787008017385" y="-14849.108331976127" r="1.3486934801768292e-44" s="2.9380829910718016" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>374.8832133304052</w>
+        <h>281.16240999780416</h>
+      </size>
+    </object>
+    <object id="68_56687861" type="text" x="21568.877441937206" y="-14659.85323139951" r="1.3486934801768292e-44" s="2.850421924851492" class="body">
+      <height>87.48</height>
+      <width>321.408</width>
+      <p>
+        <text color="3247103"><![CDATA[Disaster Safety will make your phone capable of helping you during emergency.......]]></text>
+      </p>
+    </object>
+    <object id="70_56687861" type="image" x="21542.596544060507" y="-15013.181148359185" r="1.348693480176829e-44" s="0.5638022804016086">
+      <source w="1782" h="602">3150245173<url>3150245173.png</url></source>
+      <sourceUrl>login.png</sourceUrl>
+    <resource><id>3150245173</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/8/f/e3eb259f0f773fd7473552ec1c490492ca4ea.png</url></resource></object>
+    <object id="71_56687861" type="button" x="5096.926987148677" y="-17181.78729738208" r="4.885750995873636e-30" s="1.1708131092588645" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="74_56687861" type="image" x="5212.244315459251" y="-17085.512873470834" r="4.885750995873636e-30" s="0.7991736796960327">
+      <source w="540" h="960">3150309415<mask x="0" y="0" w="540" h="443"/>
+      <url>3150309415.jpg</url></source>
+      <sourceUrl>IMG-20150312-WA0005.jpg</sourceUrl>
+    <resource><id>3150309415</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/2/4/8df53cace24d2d29531a6a1b5b68518a1fbe1.jpg</url></resource></object>
+    <object id="84_56687861" type="image" x="4811.7" y="-17157.8" r="4.885750995873636e-30" s="0.5497158652193247">
+      <source w="540" h="960">3152404546<url>3152404546.png</url></source>
+      <sourceUrl>Screenshot_2015-03-13-08-20-50.png</sourceUrl>
+    <resource><id>3152404546</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/f/0/fc8d33eaf2f83517f6f53d79f24d4e89942e9.png</url></resource></object>
+    <object id="72_56687861" type="text" x="5105.016833452442" y="-17473.544647844312" r="4.885750995873636e-30" s="3.486850370818494" class="body">
+      <height>29.16</height>
+      <width>-154.224</width>
+      <p>
+        <text color="8856395"><![CDATA[OFFLINE HELP]]></text>
+      </p>
+    </object>
+    <object id="73_56687861" type="text" x="5234.855556304461" y="-17348.721848934612" r="4.885750995873636e-30" s="1.2619079174659729" class="body">
+      <height>116.64</height>
+      <width>466.3322294183811</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Location can be viewed even when offline.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[A message will be sent containing coordinates which will be pinged on the map.]]></text>
+      </p>
+    </object>
+    <object id="35_56687861" type="button" x="9206.300000000001" y="-14783" r="4.885750995873636e-30" s="1.3705299356239162" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="36_56687861" type="text" x="9180.932742604244" y="-15103.395715489247" r="4.885750995873634e-30" s="4.928277401286174" class="body">
+      <height>29.16</height>
+      <width>-68.808</width>
+      <p>
+        <text color="5974240"><![CDATA[Layout]]></text>
+      </p>
+    </object>
+    <object id="78_56687861" type="image" x="9010.8" y="-14606.6" r="4.885750995873636e-30" s="1.1426787207164957">
+      <source w="540" h="960">3152324596<mask x="0" y="266" w="540" h="170"/>
+      <url>3152324596.jpg</url></source>
+      <sourceUrl>IMG-20150311-WA0006.jpg</sourceUrl>
+    <resource><id>3152324596</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/6/d/0d262b97c59c54ced49233bd9e6e740a4ed2a.jpg</url></resource></object>
+    <object id="77_56687861" type="image" x="9524.05" y="-14627" r="4.885750995873636e-30" s="0.7550415106315773">
+      <source w="480" h="800">3152324566<mask x="0" y="0" w="480" h="511"/>
+      <url>3152324566.png</url></source>
+      <sourceUrl>Screenshot_2015-03-12-21-13-05.png</sourceUrl>
+    <resource><id>3152324566</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/8/e/51095481a2d92d52d97bc2dd156205fdc7bb1.png</url></resource></object>
+    <object id="69_56687861" type="text" x="9233.3" y="-14892.55" r="4.885750995873636e-30" s="2" class="body">
+      <height>116.64</height>
+      <width>484.608</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[The theme of the app is classic blue and white.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Customized buttons and rounded list views are used.]]></text>
+      </p>
+    </object>
+    <object id="79_56687861" type="button" x="10698.2" y="-14783" r="4.885750995873636e-30" s="1.099305064340282" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="80_56687861" type="text" x="10689.864300889587" y="-15039.156831283826" r="4.885750995873634e-30" s="2.8218908584481253" class="body">
+      <height>29.16</height>
+      <width>-168.792</width>
+      <p>
+        <text><![CDATA[Feasibility of app]]></text>
+      </p>
+    </object>
+    <object id="81_56687861" type="text" x="10744.563021676668" y="-14801.317906787479" r="4.8857509958736355e-30" s="1.6377834516840892" class="body">
+      <height>174.96</height>
+      <width>427.0206796619158</width>
+      <p listType="bullet" indent="1">
+        <text color="1657497"><![CDATA[Low battery consumption.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="1657497"><![CDATA[Memory space utilization.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="1657497"><![CDATA[Privacy of location maintained.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="1657497"><![CDATA[Authentication to prevent multiple access from the same number.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="1657497"><![CDATA[Less data consumption.]]></text>
+      </p>
+    </object>
+    <object id="82_56687861" type="image" x="17873.45" y="-13075.9" r="4.885750995873636e-30" s="3.474226467279824">
+      <source w="480" h="800">3152358637<url>3152358637.jpg</url></source>
+      <sourceUrl>IMG-20150313-WA0001.jpg</sourceUrl>
+    <resource><id>3152358637</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/c/d/310c5acdabb11342fbc65c9967b5db4eba9c0.jpg</url></resource></object>
+    <object id="85_56687861" type="image" x="16332.2" y="-20045.8" r="4.8857509958736355e-30" s="2.687173112320942">
+      <source w="540" h="960">3152409598<url>3152409598.png</url></source>
+      <sourceUrl>Screenshot_2015-03-13-08-10-37.png</sourceUrl>
+    <resource><id>3152409598</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/0/c/5b0358b3841c50342483c21e462379154aaac.png</url></resource></object>
+  </zui-table>
+  <background>
+    <layer depth="0" fadescale="0.010775513590679544">
+      <object id="background714408683" type="image" x="14487.175688707366" y="4510.341894508862" r="0" s="57.39764439819456">
+        <source w="3000" h="1466">714408683<url>714408683.jpg</url></source>
+        <sourceUrl>BGO1.jpg</sourceUrl>
+      <resource><id>714408683</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/8/d/c106e41bbf98f885a503874879e3b3e460c08.jpg</url></resource></object>
+    </layer>
+    <layer depth="0" fadescale="0.09861254900583641">
+      <object id="background714470055" type="image" x="14487.175688707366" y="4510.341894508862" r="0" s="57.39764439819456">
+        <source w="3000" h="1466">714409051<url>714409051.jpg</url></source>
+        <sourceUrl>BGO2.jpg</sourceUrl>
+      <resource><id>714409051</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/8/2/9ee31fdd65993fbc5681069a731880ca2bdd8.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="2_13696309"/>
+    </s>
+    <s>
+      <eagle o="15"/>
+    </s>
+    <s>
+      <eagle o="4"/>
+    </s>
+    <s>
+      <eagle o="42_56687861"/>
+    </s>
+    <s>
+      <eagle o="5"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="2_56687861"/>
+    </s>
+    <s>
+      <eagle o="9"/>
+    </s>
+    <s>
+      <eagle o="50_56687861"/>
+    </s>
+    <s>
+      <eagle o="67_56687861"/>
+    </s>
+    <s>
+      <eagle o="10_56687861"/>
+    </s>
+    <s>
+      <eagle o="9_56687861"/>
+    </s>
+    <s>
+      <eagle o="11_56687861"/>
+    </s>
+    <s>
+      <eagle o="12_56687861"/>
+    </s>
+    <s>
+      <eagle o="22_56687861"/>
+    </s>
+    <s>
+      <eagle o="24_56687861"/>
+    </s>
+    <s>
+      <eagle o="71_56687861"/>
+    </s>
+    <s>
+      <eagle o="5_56687861"/>
+    </s>
+    <s>
+      <eagle o="65_56687861"/>
+    </s>
+    <s>
+      <eagle o="64_56687861"/>
+    </s>
+    <s>
+      <eagle o="33_56687861"/>
+    </s>
+    <s>
+      <eagle o="57_56687861"/>
+    </s>
+    <s>
+      <eagle o="35_56687861"/>
+    </s>
+    <s>
+      <eagle o="39_56687861"/>
+    </s>
+    <s>
+      <eagle o="79_56687861"/>
+    </s>
+    <s>
+      <eagle o="43_56687861"/>
+    </s>
+    <s>
+      <eagle o="46_56687861"/>
+    </s>
+    <s>
+      <eagle o="48_56687861"/>
+    </s>
+    <s>
+      <eagle o="2_13696309"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+.line1
+{
+	borderAlpha: 0.5;
+	borderColor: #7c81c6;
+	borderThickness: 0;
+	color: #7c81c6;
+	gradEndAlpha: 0;
+	gradEndColor: #7c81c6;
+	gradStartAlpha: 1;
+	gradStartColor: #7c81c6;
+	thickness: 10;
+}
+
+.line2
+{
+	color: #d31c1c;
+	gradEndColor: #d31c1c;
+	gradStartColor: #d31c1c;
+}
+
+.line3
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line4
+{
+	color: #ffeb78;
+	gradEndColor: #ffeb78;
+	gradStartColor: #ffeb78;
+}
+
+.line5
+{
+	color: #060300;
+	gradEndColor: #060300;
+	gradStartColor: #060300;
+}
+
+.poly1
+{
+	borderColor: #7c81c6;
+	borderThickness: 6;
+	color: #4f3116;
+	gradEndColor: #b59a7d;
+	gradStartColor: #b59a7d;
+}
+
+.poly2
+{
+	borderColor: #7c81c6;
+	borderThickness: 0;
+	color: #4f3116;
+	gradEndAlpha: 1;
+	gradEndColor: #7c81c6;
+	gradStartAlpha: 1;
+	gradStartColor: #7c81c6;
+}
+
+.poly3
+{
+	borderColor: #fff;
+	borderThickness: 6;
+	color: #4f3116;
+	gradEndColor: #b59a7d;
+	gradStartColor: #b59a7d;
+}
+
+.poly4
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 0;
+	color: #4f3116;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+}
+
+.poly5
+{
+	borderColor: #000;
+	borderThickness: 6;
+	color: #4f3116;
+	gradEndColor: #b59a7d;
+	gradStartColor: #b59a7d;
+}
+
+Background
+{
+	gradEnd: #4f3116;
+	gradStart: #4f3116;
+}
+
+Grid
+{
+	color: #794b21;
+}
+
+ZArrow
+{
+	borderAlpha: 0.7;
+	borderThickness: 0;
+	gradEndAlpha: 0.3;
+	gradStartAlpha: 1;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0.5;
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #000;
+	gradStartAlpha: 0.5;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0.5;
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #000;
+	gradStartAlpha: 0.5;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0.8;
+	borderColor: #000;
+	borderThickness: 8;
+	gradEndAlpha: 0.2;
+	gradEndColor: #000;
+	gradStartAlpha: 0;
+	gradStartColor: #000;
+	padding: 1.03;
+	radius: 3;
+	thickness: 8;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #af8b6c;
+	background-padding: 4;
+}
+
+ZLabel.head
+{
+	color: #fff;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #181a30;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #110a04;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #ffeb78;
+	background-padding: 4;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #ffeb78;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>4a113d8</hash>
+<sync><oid>zeo2cgl_iyva</oid><title>disaster-safety</title><hash>4a113d8</hash></sync><config>DmzM17vAYS4E9QNEGi5ELEJlI+3Grg407z3fhJycSstSWc1bEm/7aYRB10wXLkCI4hCpfXDOOUvEfc8ucfstVmLKqhjNWIScH4BX98m4SHqmRl0tWKxi6tyH4HVH2ipqDTgTilr5Zh+oOMbabkDS1glb++DL+SgnmzyrOLmzJtThWFH/FnZXt2aCrbHtHL9wIjdqHe6X6nWBjiyqrIw47/0e0gJ+WLj+oXwAmRXXeXTgYq2Qhohf6f0P16yGtBmykALlcT4Lb+p1G8TBe9XaOCGJmab7waf0SpVKfVNtnWbz5tTxZIt9pakz5c32qwBhkhl7c5bX9+fuWCYMzqiY1w==</config></zuiprezi>
